@@ -15,5 +15,9 @@ Description: This C-Program can be used as an ATM machine driver and offers almo
 	standard C-language does not allow storing big data-type numbers. That's why Python had to be used.
 	The python script PrivateKeyGen.py allows the user to pick any n and a public key and this script computes the private key for the 
 	decryption of the messege.
+	
+	PrivateKeyGen.py : This Python script generates the private key for given any public key given the prime factors p and q of the
+	number n. This script can be used for generating a unique private key for your unique  public key. But be sure to use smaller 
+	numbers.
 
 System Requirements: Windows OS with python interpreter installed.

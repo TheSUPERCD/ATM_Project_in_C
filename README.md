@@ -1,5 +1,4 @@
-# ATM_Project
-# =========================== DEMO ATM PROGRAM DOCUMENTATION =====================
+# The ATM Project Documentation
 
 Programmer Name: Chayan Deb.
 		 B.Tech Electrical Engineering.

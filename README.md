@@ -1,18 +1,10 @@
 # The ATM Project Documentation
 
-# Programmer Name:
+# Programmer :
 	Chayan Deb.
-	
-	
 	B.Tech Electrical Engineering.
-	
-	
 	3rd Semester.
-	
-	
 	IIT Palakkad.
-	
-	
 	July-Dec 2019.
 	
 

@@ -1,4 +1,5 @@
 # The ATM Project Documentation
+This project was done by me independently in my 2nd semester after the completion of my CS1020 : Introduction to Programming.
 
 # Programmer :
 	Chayan Deb.

@@ -26,4 +26,4 @@ decryption of the messege.
 
 
 # System Requirements: 
-Windows OS with python interpreter installed.
+Windows OS / Linux OS / MacOS with python interpreter installed.

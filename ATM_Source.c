@@ -1,3 +1,4 @@
+// First we are going to talk about the libraries
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -15,7 +16,8 @@ void decrypt(char filename[]){
     sprintf(dec,"python decryptor.py %s", filename);
     system(dec);
 }
-
+// (CIS Team) ATM Project By: Mfateh
+// Here we are going to talk about the fuctions
 // ===================This part contains structure definition that will store any person's account info when they try to access their account================
 
 struct Aaccount{
@@ -44,7 +46,7 @@ long generateAccNum(){
         return (-accNum);
     }
 }
-
+// Main Function 
 // ================================================================================================================================================
 
 int main(){
